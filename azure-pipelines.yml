@@ -14,7 +14,8 @@ steps:
 - task: PythonScript@0
   inputs:
     scriptSource: 'inline'
-    script: 'print(''DevOps mothertrucker!'')'
+    script: 'print(''DevOps bitches!'')'
+    pythonInterpreter: '/usr/bin/python3'
 
 #- task: Maven@3
 #  inputs:
