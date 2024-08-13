@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'Local PC'
+  name: 'linux servers'
   
 
 steps:
